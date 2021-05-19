@@ -11,4 +11,4 @@ bil = int(input('input bilangan : '))
 if bil < 0:
 print('Masukkan bilangan positif')
 else:
-print('Penjumlahan dari nilai asli', bil,'adalah',penjumlahan(bil))
+print('Penjumlahan dari nilai asli', bil,'adalah',penjumlah(bil))
